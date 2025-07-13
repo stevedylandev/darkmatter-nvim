@@ -1,5 +1,7 @@
 # darkmatter-nvim
 
+![cover](https://files.stevedylan.dev/darkmatter-nvim.png)
+
 A colorscheme adapted from base16-black-metal-bathory
 
 ## Features
