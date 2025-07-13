@@ -1,0 +1,13 @@
+*darkmatter-nvim.txt* Neovim colorscheme based on base16-black-metal-bathory
+
+Author:  Steve Simkins (stevedylandev) <hello@stevedylan.dev>
+
+INTRODUCTION                                                    *darkmatter-nvim*
+===========================================================================
+
+Colorschemes can be accessed with |:colorscheme|.
+>
+    :colorscheme darkmatter
+<
+
+vim:tw=78:ts=8:ft=help:norl:
